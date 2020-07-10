@@ -1,0 +1,12 @@
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\bin\Debug\sismaMove.exe.config
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\bin\Debug\sismaMove.exe
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\bin\Debug\sismaMove.pdb
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\obj\Debug\sismaMove.csprojResolveAssemblyReference.cache
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\obj\Debug\sismaMove.exe
+c:\users\miso\documents\visual studio 2013\Projects\sismaMove\sismaMove\obj\Debug\sismaMove.pdb
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\bin\Debug\sismaMove.exe.config
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\obj\Debug\sismaMove.exe
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\obj\Debug\sismaMove.pdb
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\bin\Debug\sismaMove.exe
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\bin\Debug\sismaMove.pdb
+C:\wessam OneDrive\OneDrive\C# programs\For LIMOU\sismaMove\sismaMove\obj\Debug\sismaMove.csprojResolveAssemblyReference.cache
